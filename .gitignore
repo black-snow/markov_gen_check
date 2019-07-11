@@ -1,2 +1,4 @@
 lyrics/**
+!lyrics/.keep
 code/**
+!code/.keep
